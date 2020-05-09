@@ -1,5 +1,4 @@
-# service
-service that counts users who visited it
+# service that counts users who visited it
 
 npm install
 
